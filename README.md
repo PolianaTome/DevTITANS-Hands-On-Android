@@ -2,7 +2,7 @@ Atividade 1.2
 
 A) Descreva como vocês encontraram o arquivo que guarda a string "Choose a new screen lock"
 
-a.1 - O método que utilizamos e o no qual encontramos o arquivo que guarda a string "Choose a new screen lock". Para localizar o arquivo onde a string estava definida, utilizamos o Android Code Search (https://cs.android.com). 
+a.1 - O método que utilizamos e no qual encontramos o arquivo que guarda a string "Choose a new screen lock". Para localizar o arquivo onde a string estava definida, utilizamos o Android Code Search (https://cs.android.com). 
 No campo de busca, foi feita a pesquisa como exemplificado na descrição da atividade:
 
 "Choose a new screen lock"
